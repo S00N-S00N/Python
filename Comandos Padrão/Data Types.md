@@ -13,7 +13,7 @@ ___
 ## Exemplos
 
 `x = str("Hello World")` = string  
-`x = int(20)` = int   	
+`x = int(20)` = int  
 `x = float(20.5)` = float   
 `x = bool(5)` = bool  
 `x = range(6)` = range   
