@@ -42,7 +42,7 @@ print(x, y, z)
 
 `print()` = pode ser usado como saída pra impressão de variáveis  
 `input()` = permite a entrada do usuário no valor da variável  
-`f"{x}"` = é usado como forma de chamar variáveis dentro de uma string
+`f"{x}"` = é usado como forma de chamar variáveis dentro de uma string  
 `+` = pode ser usada como forma de separar variáveis strings  
 `+` = pode ser usado como forma de concatenação de variável  
 
