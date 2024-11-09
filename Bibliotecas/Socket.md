@@ -2,8 +2,6 @@
 
 O socket é uma biblioteca em python que serve para mexermos com redes e fazer 
 diferentes requisições.
-
-___
 ## Comandos
 
 `socket.scoket()` = serve para criar um objeto que vai servir como forma de
@@ -14,8 +12,6 @@ comunicação de rede, sendo TCP ou UDP, usando ipv4 ou ipv6.
 
 `SOCK_STREAM` = comunicação TCP  
 `SOCK_DGRAM` = comunicação UDP  
-
-___
 ## Coisas que você pode fazer com o objeto socket:
 
 `.connect()` = para se conectar em um servidor e portas específicos  

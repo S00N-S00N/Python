@@ -2,8 +2,6 @@
 
 Subprocess é uma biblioteca que nos permite interagir com uma shell usando
 o próprio python.
-
-___
 ## Comandos
 
 `subprocess.call(["ls"])` = executa um comando e captura o retorno (0/1)  

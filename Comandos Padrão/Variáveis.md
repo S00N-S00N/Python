@@ -8,8 +8,6 @@
 `float()` = declara a variável como quebrada  
 `str()` = declara a variável como string  
 `bool()` = declara a variável como booleana  
-
-___
 ## Nomes
 
 * Um nome de variável deve começar com uma letra ou o caractere de sublinhado  
@@ -17,8 +15,6 @@ ___
 * Um nome de variável só pode conter caracteres alfanuméricos e sublinhados  
 * Os nomes das variáveis diferenciam maiúsculas de minúsculas  
 * Um nome de variável não pode ser nenhuma das palavras-chave Python.  
-
-_____________________________________________________________________________
 ## Atribuição de valores:
 
 ##### 1 - Atribuição de várias variáveis em uma linha:
@@ -42,8 +38,6 @@ ports = [90, 20, 80]
 x, y, z = ports
 print(x, y, z)
 ```
-
-___
 ## Saída
 
 `print()` = pode ser usado como saída pra impressão de variáveis  

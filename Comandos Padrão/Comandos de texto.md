@@ -2,8 +2,6 @@
 
 `#` = comentário de uma linha  
 `""" """` = comentário de 2 ou mais linha  
-
-___
 ## Cadeia de caracteres
 
 `""" """` = permite criar uma cadeia de caracteres com quebra de linhas  
@@ -24,8 +22,6 @@ caracteres dentro de uma variável
 `.strip()` = tira todos os espaços em brancos desnecessários  
 `.split("separador")` = coloca todos as strings entre o separador em uma lista  
 `.replace("", "")` = substitui todas as letras ou palavras por outras entre aspas duplas  
-
-___
 ## Barra de fuga
 
 `\"string\"` = "string"  
@@ -37,8 +33,6 @@ ___
 `\b` = espaço  
 `\ooo` = valor octal  
 `\xhh` = valor hexadecimal  
-
-___
 ## Métodos strings
 
 `capitalize()` = Converte o primeiro caractere para maiúsculo  

@@ -1,8 +1,6 @@
 ## Introdução
 
 É uma biblioteca que faz requisições HTTP de forma simples.
-
-___
 ## Comandos
 
 `variavel.resquest.get(<url/ip>)` = faz uma requisição get para o site  

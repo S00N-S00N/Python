@@ -8,8 +8,6 @@ Tipos de conjunto: `set, frozenset`
 Tipo booleano: `bool`  
 Tipos binários: `bytes, bytearray, memoryview`  
 Nenhum tipo: `NoneType`  
-
-___
 ## Exemplos
 
 `x = str("Hello World")` = string  
