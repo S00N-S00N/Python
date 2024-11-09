@@ -17,10 +17,10 @@ ___
 `x = float(20.5)` = float   
 `x = bool(5)` = bool  
 `x = range(6)` = range   
-`x = complex(1j)` = complex   	
-`x = list["one", "two", "go]` = list   	
-`x = tuple("one" "two", "go")` = tuple   	
-`x = dict{"name" : "John", "age": 36}` = dict   	
+`x = complex(1j)` = complex  
+`x = list["one", "two", "go]` = list  
+`x = tuple("one" "two", "go")` = tuple  
+`x = dict{"name" : "John", "age": 36}` = dict     	
 `x = set{apple", "two", "go"}` = set  
 `x = frozenset({"one", "two", "go"})` = frozen-set  
 `x = bytes(5)` = bytes  

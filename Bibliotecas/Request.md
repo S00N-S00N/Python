@@ -6,7 +6,7 @@ ___
 ___
 ## Comandos
 
-`variavel.resquest.get(<url/ip>)` = faz uma requisição get para o site 
-`variavel.status.code` = verifica a resposta do servidor (exemplo = 200, 404)
+`variavel.resquest.get(<url/ip>)` = faz uma requisição get para o site  
+`variavel.status.code` = verifica a resposta do servidor (exemplo = 200, 404)  
 
 ___

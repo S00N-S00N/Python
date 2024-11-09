@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos Padrão/Data Types.md",
+                "file": "Bibliotecas/Subprocess.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Types"
+              "title": "Subprocess"
             }
           }
         ]
@@ -164,13 +164,13 @@
   },
   "active": "7fb2a019d5b5d851",
   "lastOpenFiles": [
+    "Bibliotecas/Socket.md",
+    "Bibliotecas/Request.md",
+    "Comandos Padrão/Comandos de texto.md",
+    "Comandos Padrão/Variáveis.md",
     "Comandos Padrão/Números.md",
     "Comandos Padrão/Data Types.md",
     "2024-11-06.md",
-    "Comandos Padrão/Variáveis.md",
-    "Bibliotecas/Socket.md",
-    "Comandos Padrão/Comandos de texto.md",
-    "Bibliotecas/Request.md",
     "Bibliotecas/Subprocess.md",
     "Bibliotecas",
     "Comandos Padrão",
