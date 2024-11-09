@@ -8,7 +8,6 @@
 `float(variável)` = faz a conversão de uma variável para float  
 `complex(variável)` = faz a conversão de uma variável para complex  
 
-___
 ## Números Aleatórios
 
 O python não tem como gerar números aleatórios com um comando especifico mas
