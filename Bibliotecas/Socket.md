@@ -1,4 +1,3 @@
-___
 ## Introdução
 
 O socket é uma biblioteca em python que serve para mexermos com redes e fazer 

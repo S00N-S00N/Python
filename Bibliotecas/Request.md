@@ -1,4 +1,3 @@
-___
 ## Introdução
 
 É uma biblioteca que faz requisições HTTP de forma simples.

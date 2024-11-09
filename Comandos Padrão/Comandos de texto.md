@@ -1,4 +1,3 @@
-___
 ## Comentários
 
 `#` = comentário de uma linha  

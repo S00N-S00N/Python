@@ -1,4 +1,3 @@
-___
 ## Introdução
 
 Subprocess é uma biblioteca que nos permite interagir com uma shell usando

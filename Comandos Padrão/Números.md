@@ -1,4 +1,3 @@
-___
 ## Tipos
 
 `int` = valor tipo inteiro como ($0, -1, 99, 100$)  

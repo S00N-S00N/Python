@@ -1,4 +1,3 @@
-___
 ## Tipos
 
 `nome_da_variavel = nome`  = cria uma variável  
